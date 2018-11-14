@@ -1,0 +1,10 @@
+.flight-filter {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    align-items: center;
+}
+
+.not-found {
+    padding: 10px 0;
+    text-align: center;
+}
